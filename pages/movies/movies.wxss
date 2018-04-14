@@ -1,0 +1,6 @@
+/* pages/movies/movies.wxss */
+@import "../movie-list-template/movie-list-template.wxss";
+
+.moives{
+    background-color:#efefef;
+}

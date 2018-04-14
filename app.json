@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/movies/movies",
+    "pages/movie-more/movie-more"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}

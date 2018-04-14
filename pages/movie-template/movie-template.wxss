@@ -1,0 +1,17 @@
+@import "../movie-stars-template/movie-stars-template.wxss";
+
+.movie-container{
+    display: flex;
+    flex-direction: column;
+    margin-left:40rpx;
+}
+
+.movie-image{
+    width:200rpx;
+    height: 260rpx;
+}
+
+.movie-tilte{
+    font-size : 24rpx;
+    margin-top: 10rpx;
+}
